@@ -1,0 +1,9 @@
+{"credentials": {"username": "",
+ "password": ""},
+  "hashtags": [""], 
+ "comment_list": [""],
+  "number_of_posts": "",
+ "chance_to_comment": 1,
+  "wait_between_posts": {"min": 1, "max": 1},
+   "wait_to_comment": {"min": 1, "max": 3}
+    }
